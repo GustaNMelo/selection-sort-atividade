@@ -1,4 +1,4 @@
-# Atividade 2 – Selection Sort em Python
+# Atividade 1 – Selection Sort em Python
 
 Este repositório contém a implementação do algoritmo Selection Sort em Python, conforme solicitado na atividade da disciplina.
 
