@@ -33,8 +33,6 @@ def selection_sort_otimizado(lista):
             break
     return iteracoes
 
-import time
-
 def testar_versoes(lista):
     print("\n🔵 Versão básica:")
     lista1 = lista.copy()
